@@ -96,7 +96,7 @@ vectors    vectors    embeddings
 
 ---
 
-## 🔬 Key Concepts to Explain to Evaluators
+## 🔬 Key Concepts
 
 ### TF-IDF (ML)
 - Converts text to sparse vectors based on word frequency
@@ -137,5 +137,3 @@ This project is a **comparative empirical study** showing that:
 | `pandas` / `matplotlib` | Analytics & charts |
 
 ---
-
-*Built with ❤️ for academic evaluation & resume-level demonstration.*
